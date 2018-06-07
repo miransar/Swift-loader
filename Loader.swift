@@ -1,6 +1,5 @@
 
 //  Created by Mir Ansar on 22/05/18.
-//  Copyright © 2018 MM. All rights reserved.
 //
 
 import UIKit
